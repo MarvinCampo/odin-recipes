@@ -1,0 +1,56 @@
+.paragraph {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading {
+    background-color: black;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.heading.two {
+    text-align: left;
+}
+
+/* buttons in index.html */
+
+.button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+.button.chicken {
+    background-color: blue;
+}
+
+.button.siomai {
+    background-color: gray;  
+}
+
+.button.siopao {
+    background-color: black;
+}
+
+a:link, a:visited {
+    color: orange; 
+}
+  
+a:hover {
+    color: greenyellow;
+}
+  
+a:active {
+    color: greenyellow;
+}
+
+
+
+#img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
