@@ -1,2 +1,2 @@
 # odin-recipes
-hello guys gagawa ako ng recipe website goodluck me
+I will be practicing creating web pages by adding CSS and JavaScript to boring HTML
